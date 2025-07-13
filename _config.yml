@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yongrui Heng's Homepage"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "Focusing on machine learning and Large Language Models (LLMs)."
 repository               : "0001Henry/0001Henry.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "1194913898@qq.com"
+  email            : "0001henryheng@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "0001Henry" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
@@ -57,6 +57,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  bilibili         : "https://space.bilibili.com/514733763"
 
 
 # Reading Files
