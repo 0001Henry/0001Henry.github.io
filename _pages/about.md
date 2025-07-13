@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Yongrui Heng, a undergraduate student at Beijing Jiaotong University, majoring in Computer Science and Technology. My research interests include Large Language Models and Multimodal Large Language Models.
+I am Yongrui Heng, a undergraduate student at Beijing Jiaotong University, majoring in Computer Science and Technology. My research interests include Large Language Models(LLMs) and Multimodal Large Language Models(MLLMs).
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -50,7 +50,7 @@ I am Yongrui Heng, a undergraduate student at Beijing Jiaotong University, major
 - *2023.09* National Scholarships for Undergraduate Students.
 
 # 📖 Educations
-- *2022.09 - now *, Undergraduate, Computer Science and Technology College, Beijing Jiaotong Univeristy, Beijing. 
+- *2022.09 - now*, Undergraduate, Computer Science and Technology College, Beijing Jiaotong Univeristy, Beijing. 
 
 # 💬 Invited Talks
 <!-- - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
