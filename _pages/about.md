@@ -18,6 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am Yongrui Heng, a undergraduate student at Beijing Jiaotong University, majoring in Computer Science and Technology. My research interests include Large Language Models(LLMs) and Multimodal Large Language Models(MLLMs).
+In my spare time, I love calligraphy, table tennis, anime and music, and I enjoy sharing on [bilibili](https://space.bilibili.com/514733763).
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -45,16 +46,16 @@ I am Yongrui Heng, a undergraduate student at Beijing Jiaotong University, major
 # 🎖 Honors and Awards
 <!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-- *2025.04* Beijing Municipal Three Good Student.
-- *2024.09* National Scholarships for Undergraduate Students.
-- *2023.09* National Scholarships for Undergraduate Students.
+- *2025.02* Beijing Municipal Three Good Student.
+- *2024.12* National Scholarships for Undergraduate Students.
+- *2023.12* National Scholarships for Undergraduate Students.
 
 # 📖 Educations
-- *2022.09 - now*, Undergraduate, Computer Science and Technology College, Beijing Jiaotong Univeristy, Beijing. 
+- *2022.09 - 2026.06*, Undergraduate, Computer Science and Technology College, Beijing Jiaotong Univeristy, Beijing. 
 
-# 💬 Invited Talks
+<!-- # 💬 Invited Talks -->
 <!-- - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [The Knowledge Computing Lab, Peking University](https://se.pku.edu.cn/kcl/#introduction), China.
+- *2024.10 - 2025.05*, [The Knowledge Computing Lab, Peking University](https://se.pku.edu.cn/kcl/#introduction), China.
