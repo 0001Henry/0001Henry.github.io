@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Yongrui Heng, a undergraduate student at Beijing Jiaotong University, majoring in Computer Science and Technology. My research interests include Large Language Models(LLMs) and Multimodal Large Language Models(MLLMs).
+I am Yongrui Heng, a undergraduate student at Beijing Jiaotong University, majoring in Computer Science and Technology. My research interests include Reasoning language models and Vision Language Models.
 
 In my spare time, I love calligraphy, table tennis, anime and music, and I enjoy sharing on [bilibili](https://space.bilibili.com/514733763).
 
